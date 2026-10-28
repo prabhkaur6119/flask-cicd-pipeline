@@ -1,3 +1,4 @@
+![CI/CD Pipeline](https://github.com/prabhkaur6119/flask-cicd-pipeline/actions/workflows/ci-cd.yml/badge.svg)
 # Flask CI/CD Pipeline Using GitHub Actions and Docker
 
 ## Project Overview
